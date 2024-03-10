@@ -12,5 +12,5 @@ to, forwarding, and marking emails as important at specified percentages.
 emails, and message categorization (inbox, spam, promotions).
 
 ### Final result :
-#### Click here to watch tutorial video
+#### Click the image below to watch tutorial video
 [![Click to watch](Screenshot_26.png)](https://youtu.be/f5FzfP7sEDM "Click here to watch")
