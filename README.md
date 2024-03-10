@@ -13,4 +13,4 @@ emails, and message categorization (inbox, spam, promotions).
 
 ### Final result :
 
-[![Click to watch](doc/Screenshot_26.png)](https://www.youtube.com/watch?v=CBoL_2pau-4 "Click here to watch")
+[![Click to watch](doc/Screenshot_26.png)](https://youtu.be/f5FzfP7sEDM "Click here to watch")
